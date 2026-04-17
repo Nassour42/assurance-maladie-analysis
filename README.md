@@ -7,7 +7,7 @@
 - **Volume:** 106M rows x 57 columns (January, June, December 2025)
 
 ## Tools
-- DuckDB: SQL queries on raw CSV files without importing full files into memory
+- DuckDB: SQL queries on raw CSV files
 - pandas, matplotlib, seaborn
 
 ## Analysis
@@ -22,4 +22,4 @@
 - Indemnités journalières represent 4.58B€, second largest category after pharmacy
 - Reimbursement peaks at age 60-69 (7.88B€) before declining for 80+
 - December shows consistently higher expenditure across all care settings
-- Code 9 (1.8B€ unclassified) is driven by hospital stay charges from smaller regimes (MSA, SLM)
+- Code 9 (1.8B€ unclassified) is predominantly driven by hospital stay chargesd
